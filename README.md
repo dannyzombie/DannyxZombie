@@ -7,6 +7,7 @@ Welcome to Danny Zombie's Gaming Hub! This simple web application serves as a pe
 - **Responsive Video Player**: An embedded YouTube playlist that autoplays with sound muted and in high definition.
 - **Resizable Video Container**: Users can resize the video player while maintaining a 16:9 aspect ratio.
 - **Stylish Design**: A dark theme with a modern layout, perfect for gamers.
+- **Social Links**: A "Join the Horde!" button that toggles social media links for easy access.
 
 ## Technologies Used
 
@@ -25,19 +26,25 @@ To run this project locally, follow these steps:
 
 - **HTML**: The structure of the webpage, including the header, description, video container, and footer.
 - **CSS**: Styles applied to make the application visually appealing.
-- **JavaScript**: Functionality for resizing the video container dynamically.
+- **JavaScript**: Functionality for resizing the video container dynamically and loading the YouTube playlist.
 
 ### Key Components
 
 - **Header**: Displays the title of the application.
 - **Description**: A brief introduction about Danny Zombie.
 - **Video Container**: Contains the embedded YouTube playlist and a resizer element.
+- **Playlist Panel**: Displays the video thumbnails for user selection.
 - **Footer**: Links to the YouTube channel.
 
 ## Usage
 
 - The embedded video player will start playing automatically when the page loads.
 - Users can click and drag the resizer in the bottom-right corner of the video player to adjust its size.
+- The "Join the Horde!" button reveals social media links for easy navigation.
+
+## Acknowledgements
+
+This project was created with the help of ChatGPT, which assisted in generating the code structure, styling, and functionality.
 
 ## License
 
@@ -46,4 +53,3 @@ This project is open-source and available for anyone to use and modify. Feel fre
 ## Contact
 
 For more information, check out my [YouTube Channel](https://www.youtube.com/channel/UCJGtHu4d7wUZmPxrtDYmotA).
-
